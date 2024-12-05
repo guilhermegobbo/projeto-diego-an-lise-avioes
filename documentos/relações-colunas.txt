@@ -1,0 +1,19 @@
+CAA x NAVPASS
+
+
+Aircraft Type Code ICAO --> Aircraft Model ICAO Code
+From Airport Code ICAO --> Origin ICAO Code
+To Airport Code ICAO --> Destination ICAO Code
+Flight Date Time --> Fir Start Date
+Max Take Off Weight --> Aircraft Model MTOW (kg)
+Operator EF Legacy Code --> Operator Ref ID
+Entry Point --> Fir Started
+Exit Point --> Fir Ended
+CallSign Flight No --> Call Sign
+Aircraft Registration No --> Aircraft Registration
+From Airport Code ICAO --> Origin ICAO Code
+To Airport Code ICAO --> Destination ICAO Code
+Flight Date Time --> Flight Takeoff
+Arrival Time --> Flight Landing
+Distance --> Flight Length Km
+
