@@ -13,7 +13,4 @@ CallSign Flight No --> Call Sign
 Aircraft Registration No --> Aircraft Registration
 From Airport Code ICAO --> Origin ICAO Code
 To Airport Code ICAO --> Destination ICAO Code
-Flight Date Time --> Flight Takeoff
-Arrival Time --> Flight Landing
 Distance --> Flight Length Km
-
